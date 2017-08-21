@@ -9,3 +9,5 @@ Wonder how to make your terminal more Git friendly? Here the answer. This work f
 3. For Mac, paste it into `.bash_profile`, if you have `.bash_profile` previously make sure you have backup.
 4. For Linux, paste it into `.bashrc`, if you have `.bash_profile` previously make sure you have backup.
 5. Restart terminal
+
+ADDED ADDITIONAL CHANGE
